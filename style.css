@@ -1,0 +1,12 @@
+.contenedor {
+    padding: 5px;
+    background-color: green;
+    display: inline-block;
+}
+
+button {
+    color: rgb(9, 173, 23);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
