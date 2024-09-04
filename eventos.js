@@ -5,11 +5,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
     contenedor.addEventListener('click', () => {
         alert('Hola! Soy el div');
     });
-
-    contenedor.addEventListener('click', () => {
-        alert('¡Hola! Soy el div');
-    });
-
     
     boton.addEventListener('click', (event) => {
         
