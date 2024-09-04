@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     boton.addEventListener('click', (event) => {
         
         event.stopPropagation();
-        alert('¡Haz clic en el botón!');
+        alert('¡Haz click en el botón!');
     });
 
 });
